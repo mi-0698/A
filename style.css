@@ -65,6 +65,7 @@ p {
   62.5%     { background-image: url("https://i.imgur.com/ThE2P0g.jpeg"); }
   75%       { background-image: url("https://i.imgur.com/iEiWKzj.jpeg"); }
   87.5%     { background-image: url("https://i.imgur.com/gsD1YGz.jpeg"); }
+  100%      { background-image: url("https://i.imgur.com/OhxbM4g.jpeg"); }
 }
 
 /*
@@ -169,4 +170,5 @@ footer {
     font-size: 1rem;
   }
 }
+
 
