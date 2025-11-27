@@ -57,7 +57,7 @@ p {
   background-position: center;
 }
 @keyframes bgchange {
-  0%,100%   { background-image: url("https://i.imgur.com/OhxbM4g.jpeg"); }
+  0%,       { background-image: url("https://i.imgur.com/OhxbM4g.jpeg"); }
   12.5%     { background-image: url("https://i.imgur.com/Kh70UIC.jpeg"); }
   25%       { background-image: url("https://i.imgur.com/5N85sQL.jpeg"); }
   37.5%     { background-image: url("https://i.imgur.com/mLGPTfB.jpeg"); }
@@ -170,5 +170,6 @@ footer {
     font-size: 1rem;
   }
 }
+
 
 
